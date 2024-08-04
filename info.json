@@ -1,0 +1,10 @@
+{
+    "name": "InventorySizeMod",
+    "version": "1.0.0",
+    "factorio_version": "1.1",
+    "title": "Adjustable Inventory Size",
+    "author": "weristkev",
+    "description": "Eine Mod, mit der die Inventargröße über die Mod-Einstellungen angepasst werden kann. (adjustable inventory size)",
+    "dependencies": ["base >= 1.1"]
+  }
+  
