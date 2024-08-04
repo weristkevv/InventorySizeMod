@@ -6,6 +6,9 @@ luac.out
 *.zip
 *.tar.gz
 
+# ok uip file
+!InventorySizeMod_1.0.0.zip
+
 # Object files
 *.o
 *.os
